@@ -2,7 +2,7 @@ repo_name: dukesx/edtings-app
 report_id: a9fc2d55158e9c5508b384b790c908f7
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:51:14+00:00'
+timestamp: '2024-02-29T18:38:31+00:00'
 requested_by: dukesx
 provider: github
 branch: main
@@ -62,7 +62,7 @@ tools:
   detection_source_url: https://github.com/dukesx/edtings-app
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -99,7 +99,7 @@ tools:
   last_updated_by: dukesx
   last_updated_on: 2023-01-10 06:56:14.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
